@@ -1,3 +1,3 @@
 # oop-portfolio
 
-live page: https://github.com/Lalance67/oop-portfolio
+live page: https://lalance67.github.io/oop-portfolio/
